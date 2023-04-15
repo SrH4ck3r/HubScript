@@ -71,7 +71,7 @@ end
 gg=gg:gsub("~","")
 return {ddd,gg}
 end
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SrH4ck3r/HubScript/main/Script",true))();
+a(game:HttpGet("https://raw.githubusercontent.com/SrH4ck3r/HubScript/main/Script",true))();
 local function m(h)
 
 task.spawn(function()
